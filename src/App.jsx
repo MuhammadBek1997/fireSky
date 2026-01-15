@@ -1,13 +1,12 @@
 import './App.css'
+import Festival from './pages/festival'
 
 function App() {
 
   return (
-    <>
-      <h2>
-        Hello world!!!
-      </h2>
-    </>
+    <div>
+      <Festival />
+    </div>
   )
 }
 
