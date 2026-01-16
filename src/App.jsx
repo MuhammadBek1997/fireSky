@@ -1,12 +1,11 @@
 import './App.css'
+import Quest from './pages/Quest.jsx'
 
 function App() {
 
   return (
     <>
-      <h2>
-        Hello world!!!
-      </h2>
+    <Quest/>
     </>
   )
 }
