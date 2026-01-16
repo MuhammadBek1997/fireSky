@@ -1,12 +1,11 @@
 import './App.css'
+import Ticket from './page/Ticket'
 
 function App() {
 
   return (
     <>
-      <h2>
-        Hello world!!!
-      </h2>
+    <Ticket/>
     </>
   )
 }
