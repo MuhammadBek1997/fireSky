@@ -1,4 +1,5 @@
 import './App.css'
+import Write from "./pages/writer";
 import Festival from './pages/festival'
 import Header from './pages/Header'
 
@@ -8,6 +9,7 @@ function App() {
     <div>
     <Header/>
       <Festival />
+    <Write/>
     </div>
   )
 }
