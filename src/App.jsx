@@ -1,14 +1,14 @@
 import './App.css'
+import Header from './pages/Header'
 
 function App() {
 
   return (
     <>
-      <h2>
-        Hello world!!!
-      </h2>
+      <Header/>
     </>
   )
 }
 
 export default App
+
