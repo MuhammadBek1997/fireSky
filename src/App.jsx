@@ -1,4 +1,5 @@
 import './App.css'
+import Footer from './pages/footer'
 import Quest from './pages/Quest.jsx'
 import Ticket from './page/Ticket'
 import Write from "./pages/writer";
@@ -15,6 +16,7 @@ function App() {
     <Write/>
     <Ticket/>
     <Quest/>
+    <Footer />
     </div>
   )
 }
