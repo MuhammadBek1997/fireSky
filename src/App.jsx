@@ -1,12 +1,11 @@
 import './App.css'
+import Write from "./pages/writer";
 
 function App() {
 
   return (
     <>
-      <h2>
-        Hello world!!!
-      </h2>
+      <Write/>
     </>
   )
 }
