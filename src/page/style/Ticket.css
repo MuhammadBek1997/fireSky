@@ -1,5 +1,5 @@
 * {
-    margin: 0;
+    margin: 0   ;
     padding: 0;
     box-sizing: border-box;
 }
@@ -78,9 +78,9 @@
 }
 
 .login button {
-    width:420px;
-    height:471px ;
-    border-radius:18px;
+    width: 420px;
+    height: 471px;
+    border-radius: 18px;
     background: rgb(11, 15, 26);
 }
 
@@ -93,22 +93,26 @@
     color: white;
     padding-left: 15px;
 }
-.login h4{
+
+.login h4 {
     margin-top: 5px;
     color: white;
 }
-.login p{
+
+.login p {
     margin-top: 5px;
     color: white;
 }
+
 .send button {
     width: 386px;
     height: 39px;
     margin-top: 8px;
-    border-radius:10px ;
+    border-radius: 10px;
     background: #FF6BD6;
     background: linear-gradient(332deg, rgba(255, 107, 214, 1) 10%, rgba(252, 176, 69, 1) 100%);
 }
-.send-cont p{
+
+.send-cont p {
     margin-top: 15px;
 }
