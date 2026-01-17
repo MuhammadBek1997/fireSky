@@ -1,0 +1,118 @@
+* {
+    margin: 0   ;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.ticket {
+    background: #060633;
+    background: linear-gradient(180deg, rgba(6, 6, 51, 1) 1%, rgba(8, 7, 53, 1) 0%);
+}
+
+.ticket-cont {
+    text-align: center;
+    color: white;
+}
+
+.ticket-cont p {
+    margin-top: 10px;
+}
+
+.order {
+    display: flex;
+    margin-top: 15px;
+}
+
+.order button {
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 16px;
+    background: #0f0f3d;
+    background: linear-gradient(180deg, rgba(15, 15, 61, 1) 35%, rgba(68, 25, 120, 1) 100%);
+}
+
+.order-cont button {
+    width: 180px;
+    height: 30px;
+    background: rgb(46, 38, 71);
+    color: white;
+    margin-bottom: 10px;
+    margin-top: 18px;
+}
+
+.order p {
+    color: white;
+    margin-top: 8px;
+}
+
+.order h4 {
+    color: white;
+    margin-top: 10px;
+}
+
+.two-cont {
+    margin-top: 5px;
+    display: flex;
+}
+
+.color {
+    color: #FFDD55;
+    font-size: 11px;
+}
+
+.color h2 {
+    margin-top: 8px;
+}
+
+.order-cont p {
+    margin-top: 1px;
+}
+
+.order-cont p {
+    font-size: 10, 5px;
+}
+
+.login {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.login button {
+    width: 420px;
+    height: 471px;
+    border-radius: 18px;
+    background: rgb(11, 15, 26);
+}
+
+.login input {
+    width: 386px;
+    height: 34px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background: #08091C;
+    color: white;
+    padding-left: 15px;
+}
+
+.login h4 {
+    margin-top: 5px;
+    color: white;
+}
+
+.login p {
+    margin-top: 5px;
+    color: white;
+}
+
+.send button {
+    width: 386px;
+    height: 39px;
+    margin-top: 8px;
+    border-radius: 10px;
+    background: #FF6BD6;
+    background: linear-gradient(332deg, rgba(255, 107, 214, 1) 10%, rgba(252, 176, 69, 1) 100%);
+}
+
+.send-cont p {
+    margin-top: 15px;
+}
