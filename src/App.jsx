@@ -1,12 +1,11 @@
 import './App.css'
+import Footer from './pages/footer'
 
 function App() {
 
   return (
     <>
-      <h2>
-        Hello world!!!
-      </h2>
+      <Footer />
     </>
   )
 }
