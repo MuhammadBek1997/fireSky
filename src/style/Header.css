@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.nav-color {
+    width: 100%;
+    height: 800px;
+    background: url(/public/images/nom.jpg) no-repeat;
+}
+
+.nav-list {
+    display: flex;
+    margin-left: 200px;
+    font-size: 90%;
+    gap: 30px;
+    color: white;
+
+}
+.nav-cont {
+    margin-left: 1200px;
+    margin-top: -28px;
+    font-size: 90%;
+    color: white;
+
+}
+
+.hero-list h2 {
+    margin-top: 100px;
+    margin-left: 90px;
+    font-size: 30px;
+    color: #FFDD55;
+}
+
+.hero-list h3 {
+    margin-top: 50px;
+    margin-left: 90px;
+    display: flex;
+    font-size: 40px;
+    color: white;
+}
+
+.hero-list h4 {
+    margin-left: 550px;
+    margin-top: -45px;
+    font-size: 40px;
+    color: #FF6BD6;
+}
+
+.hero-list h5 {
+    margin-left: 90px;
+    margin-top: 30px;
+    font-size: 40px;
+    color: #FF6BD6;
+}
+
+.hero-list h6 {
+
+    margin-left: 90px;
+    margin-top: 20px;
+    font-size: 17px;
+    color: white;
+}
+
+.hero-list-mk {
+    margin-top: 50px;
+    margin-left: 90px;
+    font-size: 14px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    gap: 20px;
+}
+
+.hero-list-hg {
+    margin-top: 50px;
+    margin-left: 90px;
+    color: rgb(255, 255, 255);
+    display: flex;
+    gap: 20px;
+}
+
+.hero-list-hg button {
+    width: 184px;
+    height: 41px;
+    border-radius: 18px;
+
+    background: #FFDD55;
+}
+
+.hero-logo {
+    margin-top: -400px;
+    margin-left: 900px;
+    font-size: 50px;
+}
+
+.button-1 button {
+    width: 242px;
+    color: white;
+    border-radius: 18px;
+    border: 1px solid white;
+    background: none;
+}

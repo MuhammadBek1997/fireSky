@@ -1,0 +1,44 @@
+.fire{
+    width: 100%;
+    height: 552px;
+    background: #0e0f2f;
+}
+.fire-word {
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.safety-wrapper {
+  display: flex;
+  flex-direction: row;        
+  flex-wrap: wrap;          
+  gap: 40px;                 
+  justify-content: center;    
+  align-items: stretch;       
+  max-width: 1400px;
+  margin: 60px auto;
+  padding: 0 20px;
+}
+
+.secret {
+  flex: 1;                   
+  min-width: 480px;           
+  max-width: 600px;           
+  background: #0e0f2f;
+  border-radius: 16px;
+  padding: 35px 30px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+  color: white;
+}
+
+.secret h2 {
+  text-align: center;
+  margin: 0 0 28px 0;
+  font-size: 28px;
+}
+
+.secret p {
+  margin: 14px 0;
+  font-size: 16px;
+  line-height: 1.6;
+}
